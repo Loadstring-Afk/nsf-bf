@@ -1,6 +1,6 @@
 // IMPORTANT: Replace these URLs with your actual media links
 export const assetsConfig = {
-  music: "https://your-direct-link.com/song.mp3", // Replace with your MP3 URL
+  music: "https://drive.google.com/file/d/1hHfcN8TYU1qBu_NjmzOTp9UKCsVMCjhf/view?usp=drivesdk", // Replace with your MP3 URL
   
   noGifs: [
     "https://tenor.com/view/sponge-squid-nothing-sad-gif-19385182",
