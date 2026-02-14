@@ -1,0 +1,1 @@
+export const FRIENDSHIP_START_DATE = new Date('2022-04-02T10:00:00');
