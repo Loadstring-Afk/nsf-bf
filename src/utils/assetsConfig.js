@@ -17,10 +17,10 @@ export const assetsConfig = {
   ],
   
   gallery: [
-    "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400",
-    "https://images.unsplash.com/photo-1516585427167-9f4af9627e6c?w=400",
-    "https://images.unsplash.com/photo-1529333320936-e2193f4e3b32?w=400",
-    "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=400",
-    "https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?w=400"
+    "https://drive.google.com/file/d/1olyJTZ87sZjukBslZ-QGOXSK5qVDiMlL/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1olyJTZ87sZjukBslZ-QGOXSK5qVDiMlL/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1olyJTZ87sZjukBslZ-QGOXSK5qVDiMlL/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1olyJTZ87sZjukBslZ-QGOXSK5qVDiMlL/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1olyJTZ87sZjukBslZ-QGOXSK5qVDiMlL/view?usp=drivesdk"
   ]
 };
